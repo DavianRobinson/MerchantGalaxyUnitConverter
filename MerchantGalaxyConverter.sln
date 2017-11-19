@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerchantGalaxyConverter.Domain", "MerchantGalaxyConverter.Domain\MerchantGalaxyConverter.Domain.csproj", "{BB9A26CE-A512-4BBA-A78B-FCFDE05D6749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerchantGalaxyConverter.Domain.Tests", "MerchantGalaxyConverter.Domain.Tests\MerchantGalaxyConverter.Domain.Tests.csproj", "{0816D8D5-061D-4948-964B-552BE1F1D78C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB9A26CE-A512-4BBA-A78B-FCFDE05D6749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9A26CE-A512-4BBA-A78B-FCFDE05D6749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9A26CE-A512-4BBA-A78B-FCFDE05D6749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9A26CE-A512-4BBA-A78B-FCFDE05D6749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0816D8D5-061D-4948-964B-552BE1F1D78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0816D8D5-061D-4948-964B-552BE1F1D78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0816D8D5-061D-4948-964B-552BE1F1D78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0816D8D5-061D-4948-964B-552BE1F1D78C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
